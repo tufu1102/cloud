@@ -101,3 +101,17 @@ if __name__ == "__main__":
         sys.exit(1)
 
     run(port)
+
+
+# python ricart_agrawala.py 5001
+# python ricart_agrawala.py 5002
+# python ricart_agrawala.py 5003
+
+# python token_ring.py 5002
+# python token_ring.py 5003
+# python token_ring.py 5001 start
+
+# python coordinator.py
+
+# python centralized_client.py P1
+# python centralized_client.py P1
